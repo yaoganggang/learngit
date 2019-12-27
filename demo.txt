@@ -11,4 +11,7 @@ i
 llihcjdhsjb
 iiijjjGit is free software
 iiiiiillllii
+
 Git is a version control system
+
+create a new branch is quick and simple
