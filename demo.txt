@@ -1,14 +1,34 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 OMG
+=======
+icreate a new branch 
+
+kkk
+wwwww
+>>>>>>> Stashed changes
 
 create a new branch is quick and simple
 =======
 creating a new branch is quick and simple
 >>>>>>> dev
 
+<<<<<<< Updated upstream
 git merge --no-ff
 
 =======
 >>>>>>> issue-101
 create a new branch is quick and simple
+=======
+ooo
+kkk
+jgdhsjgbjhdguhvigfu
+i
+llihcjdhsjb
+iiijjjGit is free software
+iiiiiillllii
+Git is a version control system
+
+hhhhhh
+>>>>>>> Stashed changes
