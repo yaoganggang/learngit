@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 OMG
 
 create a new branch is quick and simple
@@ -8,4 +9,6 @@ creating a new branch is quick and simple
 
 git merge --no-ff
 
+=======
+>>>>>>> issue-101
 create a new branch is quick and simple
