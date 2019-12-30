@@ -6,4 +6,6 @@ create a new branch is quick and simple
 creating a new branch is quick and simple
 >>>>>>> dev
 
+git merge --no-ff
+
 create a new branch is quick and simple
